@@ -13,5 +13,12 @@ public class MainClass03 {
 			System.out.println("달려요!");
 		}
 		System.out.println("메인메소드가 종료됩니다.");
+		boolean isGreater=10>1;
+		if(isGreater) {
+			System.out.println("10은 1보다커요");
+			
+		}
+		boolean result=true||false;
+		System.out.println("메인 메소드가 종료됩니다");
 	}
 }
